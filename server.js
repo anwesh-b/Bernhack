@@ -1,6 +1,7 @@
 const discord = require('discord.js');
 const client = new discord.Client();
-const bot = "NjcwMzIxMDgyMDk5NTY0NTQ0.XisrOQ._2k0-DOS4q80m02jl6xcrzyVxK4";
+const bot = "NjcwMzIxMDgyMDk5NTY0NTQ0.XivBDA.p1zSR_t8wigPr1_8OEnzvbRcxo4";
+
 const fs = require('fs');
 
 client.on("message",async msg=>{
